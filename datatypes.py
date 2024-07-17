@@ -22,3 +22,11 @@ d=True
 print(d)
 print("type of d:",type(d))
 
+list1 = [8,2.3,[4,0.5],['apple','mango']]
+print(list1)
+
+tuple1 =(('parrot','sparrow'),('lion','tiger'))
+print(tuple1)
+
+dict1= {'name':'shri','age':20,'canVote':True}
+print(dict1)
