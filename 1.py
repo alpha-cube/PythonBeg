@@ -1,0 +1,5 @@
+print("Hello i am part \"one\" \n i am \"part 2\" ")
+print("hey",1,2)
+print("hey",1,2,sep="$")
+print(end="^")
+print("hello,")
