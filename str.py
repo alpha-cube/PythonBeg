@@ -1,3 +1,5 @@
+#strings r immutable (if uh define them ones they cant be change) ie any changes to existing str will lead to new str
+
 print('''jkshh
 sjkfbsjkfh
 sdjkbsdfb\n'''
