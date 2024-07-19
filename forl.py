@@ -5,9 +5,9 @@ for i in name:
     print("This is something special!")
     
 colors = ["Red", "Green", "Blue", "Yellow"]
-for color in colors:
-  print(color)
-  for i in color:
+for c in colors:
+  print(c)
+  for i in c:
     print(i)
 
 for k in range(5):

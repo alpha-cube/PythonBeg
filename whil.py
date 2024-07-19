@@ -12,4 +12,11 @@ while(j>0):
 else:#when the while loop is false it will exe else 
     print('invalid')
 
+
 #do while loop does exist for py
+i=1
+while True:
+    print(i)
+    i=i+1
+    if(i%100==0):
+        break
