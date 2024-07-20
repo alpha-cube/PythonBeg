@@ -20,7 +20,7 @@ marks = [12, 56, 32, 98, 12,  45, 1, 4]
 #   index +=1
 
 for index, m1 in enumerate(marks): #it will print after 88
-  print(m1)
+  print(m1) 
   if(index == 3):
     print("Arc is awesome!")
 
