@@ -13,7 +13,6 @@ for c in colors:
 for k in range(5):
   print(k)
   
-
 for k in range(5):
   print(k + 1)
   
